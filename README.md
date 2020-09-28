@@ -20,13 +20,10 @@
 <br />
 <br />
 
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=manavvgarg&show_icons=true&hide_border=true" />
-
-</details>
-
+  
 [website]: https://manavvgarg.github.io
 [twitter]: https://twitter.com/adharmiManav
 [instagram]: https://instagram.com/manavvgarg_
