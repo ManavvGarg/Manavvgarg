@@ -27,6 +27,6 @@
 
 </details>
 
-[website]: manavvgarg.github.io
+[website]: https://manavvgarg.github.io
 [twitter]: https://twitter.com/adharmiManav
 [instagram]: https://instagram.com/manavvgarg_
