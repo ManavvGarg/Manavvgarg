@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
 
-- 🔭 I’m currently working on [XyNO Discord Bot](https://github.com/XyNO-Discord/XyNO-Bot)
+- 🔭 I’m currently working on [Xeno Discord Bot](https://github.com/Xeno-Discord/)
 
 - 🌱 I’m currently learning **Javascript and Python**
 
