@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
 
-- 🔭 I’m currently working on [Xeno Discord Bot](https://github.com/Xeno-Discord/)
-
 - 🌱 I’m currently learning **Javascript and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavvgarg](https://github.com/manavvgarg)
