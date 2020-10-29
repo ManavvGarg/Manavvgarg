@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manavvgarg](https://github.com/manavvgarg)
+- 👨‍💻 All of my projects are available here and at [My Website](https://manavvgarg.tk)
 
 - 📫 How to reach me **manavvgarg2019@gmail.com**
 
