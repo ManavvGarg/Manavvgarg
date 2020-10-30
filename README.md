@@ -33,4 +33,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=dracula" alt="manavvgarg" /></p>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div>
