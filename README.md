@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I also draw, cook and play games ;)**
 
+-I might be listening to something, you can see here right below :)
+
 [<img src="https://readme-spotify-status-three.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/curiosticgameryt)
 
 ### Languages and Tools:
