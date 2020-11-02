@@ -37,4 +37,6 @@
 </p>
 
 <center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=dracula" alt="manavvgarg" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=dracula" alt="ManavvGarg's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManavvGarg&theme=dracula" />
 <div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div></center>
