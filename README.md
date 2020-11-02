@@ -36,7 +36,6 @@
 <a href="https://instagram.com/manavvgarg_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manavvgarg_" height="30" width="40" /></a>
 </p>
 
-<center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=dracula" alt="manavvgarg" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=dracula" alt="ManavvGarg's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManavvGarg&theme=dracula" />
-<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div></center>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=dracula" alt="manavvgarg" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=dracula" alt="ManavvGarg's github stats" /></p>
+<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div>
