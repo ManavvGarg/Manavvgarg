@@ -37,5 +37,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=dracula" alt="manavvgarg" height="150" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=dracula" alt="ManavvGarg's github stats" height="150" /></p>
-<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=dracula" alt="ManavvGarg's github stats" height="200" />
+<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=dracula"></div></p>
