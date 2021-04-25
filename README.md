@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **Python & Java and expanding my knowledge of javascript now by using TypeScript!**
+
+- 🌱 I Know **MySQL (95%), JavaScript (93%), Python (45%), EJS (100%), HTML5 & CSS3 (94%)**
 
 - 👨‍💻 All of my projects are available here and at [My Website](https://manavgarg.tk)
 
