@@ -7,7 +7,7 @@
 
 - 🌱 I Know **MySQL (95%), JavaScript (93%), Python (45%), EJS (100%), HTML5 & CSS3 (94%)**
 
-- 👨‍💻 All of my projects are available here and at [My Website](https://manavgarg.tk)
+- 👨‍💻 [My Website](https://manavgarg.tk)
 
 - 📫 How to reach me **manavvgarg2019@gmail.com**
 
