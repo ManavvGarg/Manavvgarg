@@ -13,10 +13,6 @@
 
 - ⚡ Fun fact **I also draw, cook and play games ;)**
 
-- 🎵 I might be listening to something, you can see here right below :)
-
-[<img src="https://readme-spotify-status-three.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/curiosticgameryt)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
