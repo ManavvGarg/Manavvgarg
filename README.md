@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Java and expanding my knowledge of javascript now by using TypeScript!**
 
-- 🌱 I Know **MySQL (95%), JavaScript (93%), Python (45%), EJS (100%), HTML5 & CSS3 (94%)**
+- 🌱 I Know **MySQL (95%), JavaScript (93%), Python (45%), EJS (100%), HTML5 & CSS3 (94%), ReactJS (75% - Still learning [MERN Stack])**
 
 - 👨‍💻 [My Website](https://manavgarg.tk)
 
