@@ -5,12 +5,11 @@
 
 - 🌱 I’m currently learning **Python & Java and expanding my knowledge of javascript by using TypeScript!**
 
-- 👨‍💻 [My Website](https://manavgarg.tk)
+- 👨‍💻 [My resume/Website](https://ceev.io/@manavvgarg)
 
-- 📫 How to reach me **manavvgarg2019@gmail.com**
+- 📫 How to reach me **garg.manav1108@gmail.com**
 
-- ⚡ Fun fact **I also draw, cook and play games ;)**
-
+- ⚡ Fun fact **I also draw, cook and play games ;) My graphic design page on instagram: [@hino.jpeg](https://instagram.com/hino.jpeg)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=dracula" alt="manavvgarg" height="200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=dracula" alt="ManavvGarg's github stats"/>
