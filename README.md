@@ -7,7 +7,7 @@
 
 - 👨‍💻 [My resume/Website](https://github.com/manavvgarg/resume)
 
-- 📫 How to reach me **garg.manav1108@gmail.com**
+- 📫 How to reach me **manav.garg@hotmail.com**
 
 - ⚡ Fun fact **I also draw, cook and play games ;) My graphic design page on instagram: [@hino.jpeg](https://instagram.com/hino.jpeg)**
 
