@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Java and Exploring Opportunities in Artificial Intelligence and Machine Learning!**
 
-- 👨‍💻 [My resume/Website](https://github.com/manavvgarg/resume)
+- 👨‍💻 [My Resume](https://github.com/ManavvGarg/Resume/blob/main/Resume_Manav_Garg.pdf)
 
 - 📫 How to reach me **manav.garg@hotmail.com**
 
