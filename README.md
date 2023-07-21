@@ -17,7 +17,6 @@
 - ⚡ Fun fact **I also draw, cook and play games ;) My graphic design page on instagram: [@hino.jpeg](https://instagram.com/hino.jpeg)**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark" alt="manavvgarg" height="200"/>
-  <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=compact" alt="ManavvGarg's github stats"/>
   <br/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicy-fresh&row=1"></div></p>
+<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1"></div></p>
