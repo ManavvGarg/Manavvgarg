@@ -20,4 +20,4 @@
   <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=compact" alt="ManavvGarg's github stats"/>
   <br/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=chartreuse-dark"></div></p>
+<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicy-fresh&row=1"></div></p>
