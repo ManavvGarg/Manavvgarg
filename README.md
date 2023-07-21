@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Manav</h1>
-[!](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=99F704&background=FF000000&center=true&vCenter=true&width=435&lines=Developer.;Designer.;Dreamer.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=99F704&background=FF000000&center=true&vCenter=true&width=435&lines=Developer.;Designer.;Dreamer." alt="Typing SVG" /></a>
 <h3 align="center">A passionate Javascript/Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
