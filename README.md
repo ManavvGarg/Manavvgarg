@@ -21,6 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="manavvgarg" height="215" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
   <br/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="50%"></div>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="80%">
 
 </p>
