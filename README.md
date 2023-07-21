@@ -1,6 +1,6 @@
 <h1 align="center">Manav Garg</h1>
 <p align="center"> 
-    <h2>[My Resume](https://github.com/ManavvGarg/Resume/blob/main/Resume_Manav_Garg.pdf)</h2>
+   [My Resume](https://github.com/ManavvGarg/Resume/blob/main/Resume_Manav_Garg.pdf)
 </p>
   
 <p align="center">
