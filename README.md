@@ -1,11 +1,14 @@
 <h1 align="center">Manav Garg</h1>
-
+<p align="center"> 
+    <h2>[My Resume](https://github.com/ManavvGarg/Resume/blob/main/Resume_Manav_Garg.pdf)</h2>
+</p>
+  
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=99F704&background=FF000000&center=true&vCenter=true&width=435&lines=Developer.;Designer.;Dreamer." alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">A passionate Javascript/Python developer from India</h3>
-[My Resume](https://github.com/ManavvGarg/Resume/blob/main/Resume_Manav_Garg.pdf)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
 
 - 🌱 I’m currently learning **Python & Java and Exploring Opportunities in Artificial Intelligence and Machine Learning!**
