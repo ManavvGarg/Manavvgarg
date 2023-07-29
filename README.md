@@ -18,9 +18,11 @@
 
 <p align="center" width="100%">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="manavvgarg" height="215" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="manavvgarg" height="215" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
   <br/><br/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="86%">
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manavvgarg&repo=sentisys)](https://github.com/manavvgarg/sentisys)
 
 </p>
