@@ -1,5 +1,5 @@
 <h1 align="center">Manav Garg</h1>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" />
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=99F704&background=FF000000&center=true&vCenter=true&width=435&lines=Developer.;Designer.;Dreamer." alt="Typing SVG" /></a>
 </p>
@@ -21,6 +21,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="manavvgarg" height="200" width="53%" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
   <br/><br/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="86%">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="86%" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
