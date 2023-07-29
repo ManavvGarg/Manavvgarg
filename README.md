@@ -22,6 +22,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
   <br/><br/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="86%" /> <br/>
-[](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
