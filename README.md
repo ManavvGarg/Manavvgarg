@@ -23,4 +23,5 @@
   <br/><br/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=manavvgarg&theme=juicyfresh&row=1" width="86%" /> <br/>
 </p>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/11mnv?theme=dark&font=Poppins&ext=heatmap)
