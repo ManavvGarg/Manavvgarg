@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **manav.garg@hotmail.com**
 
-- ⚡ Fun fact **I also draw, cook and play games ;) My graphic design page on instagram: [@hino.jpeg](https://instagram.com/hino.jpeg)**
+- ⚡ Fun fact **I also draw, design, cook and play games :D 
+
+ - 🎨 My graphic design page on instagram: [@hino.jpeg](https://instagram.com/hino.jpeg)**
 
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
