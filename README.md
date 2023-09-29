@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate Javascript/Python developer from India</h3>
 
-
-
 - 🌱 I’m currently learning **Python & Java and Exploring Opportunities in Artificial Intelligence and Machine Learning!**
 
 - 👨‍💻 [My Resume](https://github.com/ManavvGarg/Resume/blob/main/Resume_Manav_Garg.pdf)
@@ -16,12 +14,11 @@
 
 - ⚡ Fun fact **I also draw, cook and play games ;) My graphic design page on instagram: [@hino.jpeg](https://instagram.com/hino.jpeg)**
 
-<p align="center" width="100%">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="manavvgarg" height="200" width="53%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
-</p>
+## Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
+
+## Top Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut)
 
 ## LeetCode Stats (Started: 24th September 2023)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/11mnv?theme=dark&font=Poppins&ext=heatmap)
