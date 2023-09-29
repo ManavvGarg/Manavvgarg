@@ -22,4 +22,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavvGarg&hide=lua&theme=chartreuse-dark&layout=donut" alt="ManavvGarg's github stats" />
 </p>
 
+## LeetCode Stats (Started: 24th September 2023)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/11mnv?theme=dark&font=Poppins&ext=heatmap)
