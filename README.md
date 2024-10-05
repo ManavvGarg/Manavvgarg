@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=99F704&background=FF000000&center=true&vCenter=true&width=435&lines=Developer.;Designer.;Dreamer." alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">A passionate Javascript/Python developer from India</h3>
+<h3 align="center">A passionate Javascript/Python developer from India<br/>Harnessing the power of AI to create AI powered solutions.</h3>
 
 - 🌱 I’m currently learning **Python & Java and Exploring Opportunities in Artificial Intelligence and Machine Learning!**
 
@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **manav.garg@hotmail.com**
 
-- ⚡ Fun fact **I also draw, design, cook and play games :D**
+- ⚡ Fun fact **I also draw, design, cook and play games**
 
- - 🎨 My graphic design page on instagram: **[@hino.jpeg](https://instagram.com/hino.jpeg)**
+ - 🎨 My graphic design page on instagram: **[@11mnv.design](https://instagram.com/11mnv.design)**
 
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manavvgarg&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
