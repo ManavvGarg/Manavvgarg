@@ -32,6 +32,7 @@
 ### 📬 Contact  
 - Email: **manav.garg@hotmail.com**  
 - Instagram (Design): [@11mnv.design](https://instagram.com/11mnv.design)
+- Website: [manavgarg.xyz](https://www.manavgarg.xyz/)
 
 ---
 
